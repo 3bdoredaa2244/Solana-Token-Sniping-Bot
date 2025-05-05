@@ -1,4 +1,4 @@
-# Solana-Token-Sniping-Bot
+# Solana Token Sniping Bot
 
 This is a Solana Token Sniping Bot that allows you to automatically snip (buy) tokens on the Solana blockchain as soon as they are listed. It is designed to be used by individuals who want to quickly buy tokens before they are widely available or listed on major exchanges.
 
@@ -31,9 +31,7 @@ cd Solana-Token-Sniping-Bot
 2. Install Dependencies
 Install the required dependencies using npm:
 
-bash
-Copy
-Edit
+
 npm install
 3. Configure the Bot
 Before running the bot, configure the necessary settings in the configuration file.
@@ -45,9 +43,8 @@ Set other configurations like token addresses, sniping price, and more.
 4. Run the Bot
 Once everything is set up, you can start the bot:
 
-bash
-Copy
-Edit
+
+
 node bot.js
 The bot will start monitoring the Solana blockchain and sniping tokens based on the configured parameters.
 
@@ -68,20 +65,7 @@ This project is open-source and available under the MIT License.
 
 Disclaimer: This bot is meant for educational purposes and is not intended for use in illegal activities. Use it responsibly and at your own risk. Always be cautious when interacting with the cryptocurrency and blockchain ecosystem.
 
-vbnet
-Copy
-Edit
-
-### How to Use:
-
-1. **Replace `<filename>`** in the placeholder section with your actual bot file name or relevant configuration file.
-2. **Modify the settings** to match any specific configurations for your bot, such as token addresses, sniping price thresholds, and bot credentials.
-
-Feel free to modify this README as necessary! Let me know if you need anything else.
+sql
 
 
-
-
-
-
-
+You can now copy and paste the above content into your `README.md` file in your project directory. Le
